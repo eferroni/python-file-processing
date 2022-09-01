@@ -1,0 +1,3 @@
+__main__:CRITICAL:2022-09-01 09:44:34,844:My CRITICAL message
+__main__:ERROR:2022-09-01 09:44:34,844:My ERROR message
+__main__:WARNING:2022-09-01 09:44:34,844:My WARNING message
